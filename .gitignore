@@ -26,3 +26,4 @@ fp-info-cache
 *.ses
 *.xml
 *.csv
+.history
