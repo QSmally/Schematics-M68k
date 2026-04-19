@@ -217,7 +217,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "2"
+      "sch_revision": "3"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -710,7 +710,7 @@
         "uuid": "eff785cc-c460-4388-98eb-d9379818bf88"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R9,R14-15,C7-9,J6-16,#PWR36,#PWR70,#PWR77,#PWR83-84",
     "variants": []
   },
   "sheets": [
